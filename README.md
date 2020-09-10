@@ -3,6 +3,7 @@ Notes: Firebase, React, TODOList app, Database, Hosted online, 2 Fundamentals of
 # STATE
 • Gets cleared after refreshed
 # PROPS
-# Run Dynamic JavaScript with JSX
-# JSX = JavaScript + HTML
-# event.preventDefault(); // I will stop the REFRESH
+• Run Dynamic JavaScript with JSX
+• JSX = JavaScript + HTML
+• event.preventDefault(); // I will stop the REFRESH
+• setInput(''); // clear up input after clicking add todo button
